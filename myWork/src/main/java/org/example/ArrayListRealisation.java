@@ -2,6 +2,7 @@ package org.example;
 
 import javax.naming.SizeLimitExceededException;
 
+// Рахматуллин Дамир 11-305 Вариант 3 
 public class ArrayListRealisation <T>
 {
     int size;
